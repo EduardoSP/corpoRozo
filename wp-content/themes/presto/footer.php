@@ -10,16 +10,16 @@
 			
 
 			<div class="col-md-6">
-				<h1 style="color:white">
-					Contáctenos
-				</h1>
 				<h2 style="color:white">
+					Contáctenos
+				</h2>
+				<h3 style="color:white">
 					Teléfono: 3182702148
 
-				</h2>
-				<h2 style="color:white">
+				</h3>
+				<h3 style="color:white">
 					Email : corporozo@hotmail.com
-				</h2>
+				</h3>
 			</div>
 			
 		</div>		
