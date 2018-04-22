@@ -1,2 +1,2 @@
 "# corpoRozo" 
-Comentario rama Eduardo antes de lady
+Comentario rama Eduardo contenido con imagenes

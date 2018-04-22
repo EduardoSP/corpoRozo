@@ -1,10 +1,27 @@
 <!-- presto Callout Section -->
 <?php $wl_theme_options = weblizar_get_options(); ?>
 <!-- Footer Widget Secton -->
-<div  style="background-color:#DADCD0;">	
+<div  style="background-color:#83E2E9;">	
 	<div class="container">
 		<div class="row">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.8762563205028!2d-76.39028368514884!3d3.6157619473689104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3a01bd62ef1bd5%3A0x535db8634970cb!2sRozo%2C+Palmira%2C+Valle+del+Cauca!5e0!3m2!1ses!2sco!4v1524360949225" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+			<div class="col-md-6 google-maps">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.8762563205028!2d-76.39028368514884!3d3.6157619473689104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3a01bd62ef1bd5%3A0x535db8634970cb!2sRozo%2C+Palmira%2C+Valle+del+Cauca!5e0!3m2!1ses!2sco!4v1524371443643" width="600" height="450" frameborder="0" style="border:0"></iframe>
+			</div>
+			
+
+			<div class="col-md-6">
+				<h1>
+					Contáctenos
+				</h1>
+				<h2>
+					Teléfono: 3182702148
+
+				</h2>
+				<h2>
+					Email : corporozo@hotmail.com
+				</h2>
+			</div>
+			
 		</div>		
 	</div>	
 </div>
