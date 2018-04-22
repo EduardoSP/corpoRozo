@@ -1,7 +1,7 @@
 <!-- presto Callout Section -->
 <?php $wl_theme_options = weblizar_get_options(); ?>
 <!-- Footer Widget Secton -->
-<div  style="background-color:#83E2E9;">	
+<div  style="background-color:#3F6965;">	
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 google-maps">
@@ -10,14 +10,14 @@
 			
 
 			<div class="col-md-6">
-				<h1>
+				<h1 style="color:white">
 					Contáctenos
 				</h1>
-				<h2>
+				<h2 style="color:white">
 					Teléfono: 3182702148
 
 				</h2>
-				<h2>
+				<h2 style="color:white">
 					Email : corporozo@hotmail.com
 				</h2>
 			</div>

@@ -3,6 +3,7 @@
 	background: #ffffff;
 } 
 /*  header contact info section ***/
+/*color encabezado*/
 .header_section{
 	background-color: #3F6965;
 	color:#fff;
@@ -437,8 +438,9 @@
 }
 /***** Footer Area Css *****************************************************************
 ***************************************************************************************/
+/*color footer*/
 .enigma_footer_area{
-	background: #674665;
+	background: #9B9B93;
 	border-top: 0px solid #6B6B6B;
 }
 /***** Contact Info Css *****************************************************************
