@@ -1,21 +1,27 @@
 <!-- presto Callout Section -->
 <?php $wl_theme_options = weblizar_get_options(); ?>
 <!-- Footer Widget Secton -->
-<div class="enigma_footer_widget_area">	
+<div  style="background-color:#3F6965;">	
 	<div class="container">
 		<div class="row">
-			<?php 
-			if ( is_active_sidebar( 'footer-widget-area' ) ){ 
-				dynamic_sidebar( 'footer-widget-area' );
-			} else 
-			{ 
-			$args = array(
-			'before_widget' => '<div class="col-md-3 col-sm-6 enigma_footer_widget_column">',
-			'after_widget'  => '</div>',
-			'before_title'  => '<div class="enigma_footer_widget_title">',
-			'after_title'   => '<div class="enigma-footer-separator"></div></div>' );
-			the_widget('WP_Widget_Pages', null, $args);			
-			} ?>
+			<div class="col-md-6 google-maps">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.8762563205028!2d-76.39028368514884!3d3.6157619473689104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3a01bd62ef1bd5%3A0x535db8634970cb!2sRozo%2C+Palmira%2C+Valle+del+Cauca!5e0!3m2!1ses!2sco!4v1524371443643" width="600" height="450" frameborder="0" style="border:0"></iframe>
+			</div>
+			
+
+			<div class="col-md-6">
+				<h2 style="color:white">
+					Contáctenos
+				</h2>
+				<h3 style="color:white">
+					Teléfono: 3182702148
+
+				</h3>
+				<h3 style="color:white">
+					Email : corporozo@hotmail.com
+				</h3>
+			</div>
+			
 		</div>		
 	</div>	
 </div>

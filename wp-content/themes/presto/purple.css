@@ -3,6 +3,7 @@
 	background: #ffffff;
 } 
 /*  header contact info section ***/
+/*color encabezado*/
 .header_section{
 	background-color: #3F6965;
 	color:#fff;
@@ -437,8 +438,9 @@
 }
 /***** Footer Area Css *****************************************************************
 ***************************************************************************************/
+/*color footer*/
 .enigma_footer_area{
-	background: #674665;
+	background: #9B9B93;
 	border-top: 0px solid #6B6B6B;
 }
 /***** Contact Info Css *****************************************************************
@@ -498,4 +500,18 @@ background-color: #674665 !important;
 }
 .enigma_blockquote_section blockquote {
 border-left: 5px solid #674665 ;
+}
+
+.google-maps {
+	position: relative;
+	padding-bottom: 40%; 
+	height: 0;
+	overflow: hidden;
+}
+.google-maps iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
 }
