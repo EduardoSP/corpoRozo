@@ -25,7 +25,7 @@
 			<div class="row ">
 			<?php if($wl_theme_options['title_position']) { ?>
 				<div class="col-md-6 col-sm-12 wl_rtl" >					
-					<div claSS="logo logocenter">						
+					<div class="logo logocenter">						
 					<a href="<?php echo esc_url(home_url( '/' )); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
 					<?php $custom_logo_id = get_theme_mod( 'custom_logo' );
 						$image = wp_get_attachment_image_src( $custom_logo_id,'full' ); ?>
