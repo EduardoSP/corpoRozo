@@ -14,6 +14,8 @@
 	<?php $wl_theme_options = weblizar_get_options(); ?>
 	
 	<link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" type="text/css" media="screen" />
+	
+	
 	<?php wp_head(); ?>
 </head>
 <body <?php if(get_theme_mod('layout',"1")=='1') body_class(); else body_class('boxed'); ?> >
