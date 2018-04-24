@@ -1,9 +1,10 @@
-.enigma_service_area a ,.enigma_footer_widget_area ul li a{color:#674665;}
+.enigma_service_area a ,.enigma_footer_widget_area ul li a{color:#3F6965;}
 #wrapper{
 	background: #ffffff;
 } 
 /*  header contact info section ***/
 /*color encabezado*/
+/*color green*/
 .header_section{
 	background-color: #3F6965;
 	color:#fff;
@@ -11,35 +12,35 @@
 /** navbar menus ***/
 .navigation_menu{
 	background-color: #fff;
-	border-top:2px solid #674665;
+	border-top:2px solid #3F6965;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	background-color: #674665;
+	background-color: #5FA875;
 }
 
 
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-	background-color: #674665;
+	background-color: #6FB183;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-	background-color: #674665;
+	background-color: #6FB183;
 }
 
 .dropdown-menu {
-	background-color: rgb(103, 70, 101);
+	background-color: #6FB183;
 }
 /** headings titles css ***/
 .enigma_heading_title h3 {
-	border-bottom: 4px solid #674665;
+	border-bottom: 4px solid #6FB183;
 	color: #3b3b3b;
 }
 .enigma_heading_title2 h3 {
-	border-bottom: 2px solid #674665;
+	border-bottom: 2px solid #6FB183;
 	color: #3b3b3b;
 }
 /** slider css ***/
@@ -49,53 +50,53 @@
 
 /** service  section css ***/
 .enigma_service_iocn{
-	border: 4px solid #674665;
+	border: 4px solid #6FB183;
 	background-size: 100% 200%;
-	background-image: linear-gradient(to bottom, #674665 50%, #fff 50%);
+	background-image: linear-gradient(to bottom, #3F6965 50%, #fff 50%);
 }
 .enigma_service_area:hover .enigma_service_iocn i {
-	color:#674665;
+	color:#3F6965;
 }
 .enigma_service_iocn_2 i{
 	background: #fff;
-	border: 4px solid #674665;
+	border: 4px solid #3F6965;
 }
 .enigma_service_iocn_2 i{
-	color: #674665;
+	color: #3F6965;
 	background-size: 100% 200%;
-	background-image: linear-gradient(to bottom, #fff 50%, #674665 50%);
+	background-image: linear-gradient(to bottom, #fff 50%, #3F6965 50%);
  }
 
 /****************portfolio css ********************************************************
 ********************************************************************************/
 
 .enigma_home_portfolio_showcase .enigma_home_portfolio_showcase_icons a {
-	background-color: #674665;
-	border:2px solid #674665;
+	background-color: #3F6965;
+	border:2px solid #3F6965;
 	color:#fff;
 }
 .enigma_home_portfolio_showcase .enigma_home_portfolio_showcase_icons a:hover{
 	background-color: #ffffff;
-	border:2px solid #674665;
-	color:#674665;
+	border:2px solid #3F6965;
+	color:#3F6965;
 }
 .enigma_home_portfolio_caption {
 	border-left:1px solid #ccc;
-	border-bottom:4px solid #674665;
+	border-bottom:4px solid #3F6965;
 	border-right:1px solid #ccc;
 }
 
 .enigma_home_portfolio_caption:hover{
-    background: #674665;
+    background: #3F6965;
 }
 .enigma_home_portfolio_caption:hover  h3 a ,.enigma_home_portfolio_caption:hover  small{
    color: #ffffff;
 }
 .img-wrapper:hover .enigma_home_portfolio_caption{
- background: #674665;
- border-left:1px solid #674665;
-	border-bottom:4px solid #674665;
-	border-right:1px solid #674665;
+ background: #3F6965;
+ border-left:1px solid #3F6965;
+	border-bottom:4px solid #3F6965;
+	border-right:1px solid #3F6965;
 }
 .img-wrapper:hover .enigma_home_portfolio_caption  h3 a,.img-wrapper:hover .enigma_home_portfolio_caption  small{
  color: #ffffff;
@@ -104,13 +105,13 @@
 .enigma_proejct_button a {
 	background-color: #f8504b;
 	color: #FFFFFF;
-	border: 2px solid #674665;
+	border: 2px solid #3F6965;
 	transition: all 0.4s ease 0s;
 }
 .enigma_proejct_button a:hover {
 	background-color: #ffffff;
-	color: #674665;
-	border: 2px solid #674665;
+	color: #3F6965;
+	border: 2px solid #3F6965;
 	text-decoration:none;
 	
 }
@@ -118,10 +119,10 @@
 
 .enigma_carousel-prev, .enigma_carousel-next {
     background-color: #fff;
-	border: 2px solid #674665;
+	border: 2px solid #3F6965;
 }
 .enigma_carousel-prev:hover, .enigma_carousel-next:hover {
-    background-color: #674665;
+    background-color: #3F6965;
 	color:#fff;
 }
 .enigma_carousel-prev:hover i, .enigma_carousel-next:hover i{
@@ -129,16 +130,16 @@
 }
 .enigma_carousel-prev i,
 .enigma_carousel-next i {
-	color: #674665;
+	color: #3F6965;
 }
 
 /*** project detail ***/
 .enigma_portfolio_detail_pagi li a {
 	color: #404040;
-	border:2px solid #674665;
+	border:2px solid #3F6965;
 	text-align:center;
 	background-size: 100% 200%;
-    background-image: linear-gradient(to bottom, #674665 50%, #ffffff 50%);
+    background-image: linear-gradient(to bottom, #3F6965 50%, #ffffff 50%);
    -webkit-transition: all ease 0.5s;
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
@@ -146,7 +147,7 @@
 }
 .enigma_portfolio_detail_pagi li a:hover {
 	color: #404040;
-	border:2px solid #674665;
+	border:2px solid #3F6965;
 	background-position: 0 -100%;
 }
 
@@ -155,7 +156,7 @@
 	line-height:35px;
 }
 .enigma_portfolio_detail_pagi li a:hover span{
-	color:#674665;
+	color:#3F6965;
 }
 .enigma-project-detail-sidebar p small {
 	color:#777777;
@@ -165,32 +166,32 @@
 .enigma-project-detail-sidebar .launch-enigma-project a {
 
 	color: #ffffff;
-	border: 2px solid #674665;
+	border: 2px solid #3F6965;
 	background-size: 100% 200%;
-    background-image: linear-gradient(to bottom, #674665 50%, #ffffff 50%);
+    background-image: linear-gradient(to bottom, #3F6965 50%, #ffffff 50%);
    -webkit-transition: all ease 0.5s;
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
 }
 .enigma-project-detail-sidebar .launch-enigma-project a:hover {
 	background-color: #ffffff;
-	color: #674665;
-	border: 2px solid #674665;
+	color: #3F6965;
+	border: 2px solid #3F6965;
 	background-position: 0 -100%;
 }
 
 /** gallery css **/
 
 .enigma_gallery_showcase .enigma_gallery_showcase_icons a {
-	background-color: #674665;
-	border:2px solid #674665;
+	background-color: #3F6965;
+	border:2px solid #3F6965;
 	color:#fff;
 }
 
 .enigma_gallery_showcase .enigma_gallery_showcase_icons a:hover{
 	background-color: #ffffff;
-	border:2px solid #674665;
-	color:#674665;
+	border:2px solid #3F6965;
+	color:#3F6965;
 }
 
 
@@ -200,25 +201,25 @@
 /** blog thumbnail css **/
 .enigma_blog_thumb_wrapper{
 	background:#fff;
-	border-bottom: 5px solid #674665;
+	border-bottom: 5px solid #3F6965;
 	box-shadow: 0 0 6px rgba(0,0,0,.7);
 
 }
 .enigma_blog_thumb_wrapper h2 a{
-	color:#674665;
+	color:#3F6965;
 	transition: all 0.4s ease 0s;
 }
 
 .enigma_blog_thumb_wrapper h2:hover a{
-	color:#674665;
+	color:#3F6965;
 
 }
 .enigma_blog_thumb_date li i{
-	color: #674665;
+	color: #3F6965;
 }
 .enigma_tags a{
 	background-size: 100% 200%;
-    background-image: linear-gradient(to bottom, #edf0f2 50%, #674665 50%);
+    background-image: linear-gradient(to bottom, #edf0f2 50%, #3F6965 50%);
  }
 
 .enigma_tags a:hover{
@@ -226,14 +227,14 @@
 	background-position: 0 -100%;
 }
 .enigma_tags a i{
-	color:#674665;
+	color:#3F6965;
 }
 .enigma_tags a:hover i{
 	color:#fff;
 }
 
 .enigma_blog_thumb_wrapper span a i{
-	color: #674665;
+	color: #3F6965;
 }
 .enigma_blog_thumb_wrapper span a {
 	color:#555;
@@ -245,20 +246,20 @@
 }
 
 .enigma_blog_read_btn{
-	border: 2px solid #674665;
+	border: 2px solid #3F6965;
 	background-size: 100% 200%;
-    background-image: linear-gradient(to bottom, #674665 50%, #fff 50%);
+    background-image: linear-gradient(to bottom, #3F6965 50%, #fff 50%);
    }
 .enigma_blog_read_btn i {
 	margin-right:5px;
 }
 .enigma_blog_read_btn:hover{
 	background-position: 0 -100%;
-	color: #674665;
+	color: #3F6965;
 }
 
 .enigma_blog_thumb_wrapper_showcase .enigma_blog_thumb_wrapper_showcase_icons a {
-	background-color: #674665;
+	background-color: #3F6965;
 	color: #fff;
 	-webkit-transition: all .25s ease-in;
     -moz-transition: all .25s ease-in;
@@ -267,81 +268,81 @@
 }
 .enigma_blog_thumb_wrapper_showcase .enigma_blog_thumb_wrapper_showcase_icons a:hover{
 	background-color: #ffffff;
-	border: 2px solid #674665;
-	color: #674665;
+	border: 2px solid #3F6965;
+	color: #3F6965;
 }
 /********* Blog Full width css ********/
 .enigma_post_date {
-	background: #674665;
+	background: #3F6965;
 	color: #ffffff;
 }
 .enigma_blog_comment:hover i, .enigma_blog_comment:hover h6{
-	color:#674665;
+	color:#3F6965;
 } 
 .enigma_fuul_blog_detail_padding h2 a{
-	color:#674665;
+	color:#3F6965;
 }
 .enigma_fuul_blog_detail_padding h2  a:hover{
-	color:#674665;
+	color:#3F6965;
 }
 /*** blog sidebar css **/
 .enigma_recent_widget_post h3 a {
-	color:#674665;
+	color:#3F6965;
 }
 .enigma_sidebar_widget {
-	border-left: 3px solid #674665;
-	border-right: 3px solid #674665;
-	border-bottom: 3px solid #674665;
+	border-left: 3px solid #3F6965;
+	border-right: 3px solid #3F6965;
+	border-bottom: 3px solid #3F6965;
 }
 .enigma_sidebar_widget_title{
-	background:#674665;
+	background:#3F6965;
 }
 .enigma_sidebar_link p a:hover {
-	color: #674665;
+	color: #3F6965;
 }
 
 .enigma_widget_tags a {
 	background-size: 100% 200%;
-    background-image: linear-gradient(to bottom, #edf0f2 50%, #674665 50%);
+    background-image: linear-gradient(to bottom, #edf0f2 50%, #3F6965 50%);
  }
 .enigma_widget_tags a:hover {
-	border: 1px solid #674665;
+	border: 1px solid #3F6965;
 	background-position: 0 -100%;
 	color: #fff;
 }
 
 /** blog detail **/
 .enigma_author_detail_wrapper{
-	background: #674665;
+	background: #3F6965;
 	padding:15px;
 	margin-bottom:40px;
 	
 }
 .enigma_author_detail_wrapper{
-	border-left:2px solid #674665;
+	border-left:2px solid #3F6965;
 }
 /** blog  form input css **/ 
 .reply a {
-	color: #674665;
+	color: #3F6965;
 }
 .enigma_con_input_control:focus, .enigma_con_textarea_control:focus,
 .enigma_contact_input_control:focus, .enigma_contact_textarea_control:focus {
-  border-color: #674665;
-  -webkit-box-shadow: inset 0 0px 0px #674665, 0 0 5px #674665;
-          box-shadow: inset 0 0px 0px #674665, 0 0 5px #674665;
+  border-color: #3F6965;
+  -webkit-box-shadow: inset 0 0px 0px #3F6965, 0 0 5px #3F6965;
+          box-shadow: inset 0 0px 0px #3F6965, 0 0 5px #3F6965;
 }
 .enigma_send_button{
-	border-color: #674665;
+	border-color: #3F6965;
 	color: #6a6a6a;
 	background-size: 100% 200%;
-    background-image: linear-gradient(to bottom, #fff 50%, #674665 50%);
+    background-image: linear-gradient(to bottom, #fff 50%, #3F6965 50%);
    -webkit-transition: all ease 0.5s;
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
 }
 .enigma_send_button:hover {
 	background-position: 0 -100%;
-    border: 2px solid #674665;
+    border: 2px solid #3F6965;
 	color: #ffffff;
 }
 
@@ -354,7 +355,7 @@
 	border: 1px solid #dbdbdb !important;
 	background-color: #ffffff;
 	background-size: 100% 200%;
-	background-image: linear-gradient(to bottom, #fff 50%, #674665 50%);
+	background-image: linear-gradient(to bottom, #fff 50%, #3F6965 50%);
    -webkit-transition: all ease 0.5s;
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
@@ -368,31 +369,31 @@
 /****** Testimonial css *******************************************
 ****************************************************************/
 .enigma_testimonial_area i{
-	color:#674665
+	color:#3F6965
 }
 .enigma_testimonial_area img{
-	border: 10px solid #674665;
+	border: 10px solid #3F6965;
 }
 .pager a{
 	background: #fff;
-	border: 2px solid #674665;
+	border: 2px solid #3F6965;
 }
 .pager a.selected{
-	background: #674665;
-	border: 2px solid #674665;
+	background: #3F6965;
+	border: 2px solid #3F6965;
 }
 /**** Client Css *************************************************
 ****************************************************************/
 .enigma_client_wrapper:hover {
-	border: 4px solid #674665
+	border: 4px solid #3F6965
 
 }
 .enigma_client_prev, .enigma_client_next {
     background-color: #fff;
-	border: 2px solid #674665;
+	border: 2px solid #3F6965;
 }
 .enigma_client_prev:hover, .enigma_client_next:hover {
-    background-color: #674665;
+    background-color: #3F6965;
 	color:#fff;
 }
 .enigma_client_prev:hover i, .enigma_client_next:hover i{
@@ -401,31 +402,31 @@
 
 .enigma_carousel-prev i,
 .enigma_carousel-next i {
-	color: #674665;
+	color: #3F6965;
 }
 /**** About us page Css *************************************************
 ****************************************************************/
 .enigma_team_showcase .enigma_team_showcase_icons a {
-	background-color: #674665;
-	border:2px solid #674665;
+	background-color: #3F6965;
+	border:2px solid #3F6965;
 	color:#fff;
 }
 
 .enigma_team_showcase .enigma_team_showcase_icons a:hover{
 	background-color: #ffffff;
-	border:2px solid #674665;
-	color:#674665;
+	border:2px solid #3F6965;
+	color:#3F6965;
 }
 
 .enigma_team_caption:hover{
-    background: #674665;
+    background: #3F6965;
 }
 .enigma_team_caption:hover  h3 a ,.enigma_team_caption:hover  small{
    color: #ffffff;
 }
 
 .enigma_team_wrapper:hover .enigma_team_caption{
- background: #674665;
+ background: #3F6965;
 }
 .enigma_team_wrapper:hover .enigma_team_caption  h3 ,.enigma_team_wrapper:hover .enigma_team_caption  small{
  color: #ffffff;
@@ -433,7 +434,7 @@
 /***** Call Out Section *****************************************************************
 ***************************************************************************************/
 .enigma_callout_area {
-	background-color: #674665;
+	background-color: #3F6965;
 
 }
 /***** Footer Area Css *****************************************************************
@@ -446,60 +447,60 @@
 /***** Contact Info Css *****************************************************************
 ***************************************************************************************/
 .enigma_contact_info li .desc {
-	color: #674665;
+	color: #3F6965;
 }
 /***** Shortcode  Css *****************************************************************
 ***************************************************************************************/
 /*Dropcaps Styles*/
 .enigma_dropcape_square span {
-	background-color: #674665;
+	background-color: #3F6965;
     color: #FFFFFF;
 }
 .enigma_dropcape_simple span {
-    color: #674665;
+    color: #3F6965;
 }
 .enigma_dropcape_circle span {
-	background-color: #674665;
+	background-color: #3F6965;
     color: #FFFFFF;
 }
 .breadcrumb li a {
-color: #674665 !important;
+color: #3F6965 !important;
 }
 /** progress bar or nav button css */
 .progress-bar {
-	background-color: #674665 !important;
+	background-color: #3F6965 !important;
 }
 .btn-search{
-	background:#674665 !important;
+	background:#3F6965 !important;
 }
 .nav-pills > li  > a{
-	border: 3px solid #674665 !important;
+	border: 3px solid #3F6965 !important;
 	background-size: 100% 200%;
-    background-image: linear-gradient(to bottom, #fff 50%, #674665 50%) !important;
+    background-image: linear-gradient(to bottom, #fff 50%, #3F6965 50%) !important;
 }
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
-	background-image: linear-gradient(to bottom, #674665 50%, #674665 50%) !important;
+	background-image: linear-gradient(to bottom, #3F6965 50%, #3F6965 50%) !important;
 }
 .nav-stacked > li  > a
 {
-	border: 3px solid #674665 !important;
+	border: 3px solid #3F6965 !important;
 	background-size: 100% 200%;
-    background-image: linear-gradient(to bottom, #fff 50%, #674665 50%) !important;
+    background-image: linear-gradient(to bottom, #fff 50%, #3F6965 50%) !important;
  }
  .nav-stacked > li.active > a, .nav-stacked > li.active > a:hover, .nav-stacked > li.active > a:focus {
-	background-image: linear-gradient(to bottom, #674665 50%, #674665 50%) !important;
+	background-image: linear-gradient(to bottom, #3F6965 50%, #3F6965 50%) !important;
 }
 
 .navbar-toggle {
-background-color: #674665 !important;
-border: 1px solid #674665 !important;
+background-color: #3F6965 !important;
+border: 1px solid #3F6965 !important;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-background-color: #674665 !important;
+background-color: #3F6965 !important;
 }
 .enigma_blockquote_section blockquote {
-border-left: 5px solid #674665 ;
+border-left: 5px solid #3F6965 ;
 }
 
 .google-maps {
